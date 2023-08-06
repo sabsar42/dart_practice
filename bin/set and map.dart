@@ -22,5 +22,15 @@ void main(){
    print(e);
  }
 
+  const ok = true;
+  Map<int, Map<String,Map<int,int>>> mp ={
+    1 : {"shkaib":{310:01}},
+    2 : {"absar":{100:01}},
+
+    if(ok)...{
+     4 : {"khan":{210:01}}
+  }
+  };
+
 
 }
