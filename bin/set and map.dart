@@ -31,6 +31,7 @@ void main(){
      4 : {"khan":{210:01}}
   }
   };
+  int sx = s.length;
 
 
 }
