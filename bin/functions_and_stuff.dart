@@ -28,6 +28,7 @@ dynamic sum( int a, int b , [ int c = 10 ]){
 
 // As its a required parameter , argument should be pass with parameter name
 // here arguments order dont matter
-void hello({required String x, required int b}){
+// just took the required keyword off and put a value it will act like optional parameter
+void hello({required String x, required int b, int c = 90}){
   print("Shakib $x is in $b");
 }
