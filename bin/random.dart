@@ -1,11 +1,4 @@
-import 'dart:io';
+void main(){
 
-void main() {
-  String? s = stdin.readLineSync();
-  int num = int.parse(s!);
-  if (num % 2 == 0) {
-    print('$num is an even number');
-  } else {
-    print('$num is an odd number');
-  }
+  var x = 5; for (var i = 0; i < x; i++) { print(i); }
 }
