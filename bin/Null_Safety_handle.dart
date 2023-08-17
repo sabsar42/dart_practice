@@ -2,6 +2,7 @@
 
 
   // can be null or not null
+   late int xz ;
   int? a;
   int b = 22;
 
