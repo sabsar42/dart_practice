@@ -1,7 +1,7 @@
 class Car{
-  late String brand;
-  late String model;
-  late int year;
+  String brand;
+  String model;
+  int year;
   late double milesDriven ;
   static int numberOfCars = 0 ;
 
